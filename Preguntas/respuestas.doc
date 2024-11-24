@@ -1,0 +1,9 @@
+A) El peso es 1 ya que no se especifica el peso del carro al momento de crear el objeto se toma el del constructor
+b)"None" debido a que no se espesifica toma el del constructor
+c)Aunque si no comentamos la linea y ejecutanos nos lanza error si ponemos los atibutos necesarios para que el 
+    codigo compile la marca del carro seria ford
+
+D) Imprime el carro mas pesado iterando sobre la lista de los carros creados
+E)Al cambiar el valor el valor "default" del peso el carro que se creo sin peso asume ese valor y resulta ser el 
+    mas pesado
+F) Añadiendo *args a los parametros del __init__
